@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.35230.93
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KT_WXWIDGET", "KT_WXWIDGET\KT_WXWIDGET.vcxproj", "{207465E5-EBBE-4727-8FF8-EBCE820A2987}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{207465E5-EBBE-4727-8FF8-EBCE820A2987}.Debug|x64.ActiveCfg = Debug|x64
+		{207465E5-EBBE-4727-8FF8-EBCE820A2987}.Debug|x64.Build.0 = Debug|x64
+		{207465E5-EBBE-4727-8FF8-EBCE820A2987}.Debug|x86.ActiveCfg = Debug|Win32
+		{207465E5-EBBE-4727-8FF8-EBCE820A2987}.Debug|x86.Build.0 = Debug|Win32
+		{207465E5-EBBE-4727-8FF8-EBCE820A2987}.Release|x64.ActiveCfg = Release|x64
+		{207465E5-EBBE-4727-8FF8-EBCE820A2987}.Release|x64.Build.0 = Release|x64
+		{207465E5-EBBE-4727-8FF8-EBCE820A2987}.Release|x86.ActiveCfg = Release|Win32
+		{207465E5-EBBE-4727-8FF8-EBCE820A2987}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14085973-97D2-4FF3-8F7C-FB3210007311}
+	EndGlobalSection
+EndGlobal
